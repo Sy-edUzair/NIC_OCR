@@ -4,7 +4,7 @@ A FastAPI backend service for Computer Vision and OCR processing on NIC (Nationa
 
 ## 🌟 Features
 
-- **Modular Preprocessing Pipeline**: Advanced image enhancement using OpenCV with super-image (RealESRGAN) for intelligent upscaling
+- **Modular Preprocessing Pipeline**: Advanced image enhancement using OpenCV with super-image EDSRMODEL for intelligent upscaling
 - **OCR Extraction**: Powered by EasyOCR for accurate text recognition
 - **Structured Field Extraction**: Automatically extracts CNIC number, name, father/husband name, gender, date of birth, and country of stay
 - **Smart Quality Adaptation**: Adapts preprocessing techniques based on image quality assessment
