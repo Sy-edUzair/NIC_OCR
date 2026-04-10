@@ -10,7 +10,7 @@ A FastAPI backend service for Computer Vision and OCR processing on NIC (Nationa
 - **Smart Quality Adaptation**: Adapts preprocessing techniques based on image quality assessment
 - **Comprehensive Validation**: Robust error handling and validation at every step
 - **Graceful Degradation**: Handles partial or failed extraction with status indicators and warnings
-- **Super-Image Upscaling**: Uses RealESRGAN for 2x-4x upscaling with superior quality
+- **Super-Image Upscaling**: Uses RealESRGAN for EDSRModel upscaling with superior quality
 - **Postman Collection**: Pre-configured API testing collection included
 
 ## 📦 Technologies
